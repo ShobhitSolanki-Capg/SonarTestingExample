@@ -1,0 +1,5 @@
+projectKey=com.capgemini:SonarTestingExample
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.capgemini:SonarTestingExample
+ceTaskId=AXUqdpN0qZxG8ORhn6Kp
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXUqdpN0qZxG8ORhn6Kp
